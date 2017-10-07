@@ -1,0 +1,33 @@
+.block{
+  background-color:black;
+  opacity:0.7;
+}
+.nav-pills{
+
+  font-size: 1.7em;
+  background-color: ;
+
+}
+body{
+  background-color: white;
+  font-family:Lobster;
+  color: white;
+  }
+
+h1{
+  padding:0;
+  margin-top:0px;
+  font-size: 7em;
+}
+.btn-default{
+  background-color: black;
+  border-color:black;
+  color:blue;
+  font-size:1.7em;
+}
+.pageOne{
+  background:url("https://images.unsplash.com/photo-1473042904451-00171c69419d?dpr=1&auto=compress,format&fit=crop&w=775&h=&q=80&cs=tinysrgb&crop=");
+  background-size: cover;
+  height: 800px;
+
+}
