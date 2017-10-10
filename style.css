@@ -7,7 +7,7 @@
   margin-left:auto;
   margin-bottom:auto;
   margin-top:auto
-  border-radius:10%;
+  border-radius:0%;
 }
 .nav-pills{
 
@@ -51,5 +51,27 @@ p{
   height:600px;
   margin-right:auto;
   margin_left:auto;
+
+}
+.pageThree{
+  background:url(https://images.unsplash.com/photo-1501371703172-850ab6b6e282?dpr=1&auto=compress,format&fit=crop&w=407&h=&q=80&cs=tinysrgb&crop=);
+  background-size:cover;
+  height:1200px;
+  padding-top:5%;
+}
+.pageFour{
+  font-size:1.7em;
+    background:url(https://images.unsplash.com/photo-1505348288055-07fa73d30043?dpr=1&auto=compress,format&fit=crop&w=750&h=&q=80&cs=tinysrgb&crop=);
+  background-size:cover;
+  height:1200px;
+  padding-top:5%;
+
+}
+.small-photo{
+  position: relative;
+  margin:30px 0 10px;
+      max-width:50%;
+      height:250px;
+    width:auto;
 
 }
