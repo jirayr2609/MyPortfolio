@@ -1,0 +1,77 @@
+.block{
+  background-color:black;
+  opacity:0.7;
+  padding: 15px;
+  width:80%;
+  margin-right:auto;
+  margin-left:auto;
+  margin-bottom:auto;
+  margin-top:auto
+  border-radius:0%;
+}
+.nav-pills{
+
+  font-size: 1.7em;
+  background-color:black ;
+  margin-bottom:10%;
+
+}
+body{
+  background-color: white;
+  font-family:Lobster;
+  color: white;
+  }
+
+h1{
+  padding:0;
+  margin-top:0px;
+  font-size: 6em;
+}
+.btn-default{
+  background-color: black;
+  border-color:black;
+  color:blue;
+  font-size:1.7em;
+}
+.pageOne{
+  background:url("https://images.unsplash.com/photo-1473042904451-00171c69419d?dpr=1&auto=compress,format&fit=crop&w=775&h=&q=80&cs=tinysrgb&crop=");
+  background-size: cover;
+  height: 800px;
+}
+.pageTwo{
+  background:url("https://images.unsplash.com/photo-1484795819573-86ae049cb815?dpr=1&auto=compress,format&fit=crop&w=750&h=&q=80&cs=tinysrgb&crop=");
+    background-size: cover;
+  height: 800px;
+  padding-top:5%;
+}
+p{
+  font-size: 2.8em;
+}
+.myphoto{
+  height:600px;
+  margin-right:auto;
+  margin_left:auto;
+
+}
+.pageThree{
+  background:url(https://images.unsplash.com/photo-1501371703172-850ab6b6e282?dpr=1&auto=compress,format&fit=crop&w=407&h=&q=80&cs=tinysrgb&crop=);
+  background-size:cover;
+  height:1200px;
+  padding-top:5%;
+}
+.pageFour{
+  font-size:1.7em;
+    background:url(https://images.unsplash.com/photo-1505348288055-07fa73d30043?dpr=1&auto=compress,format&fit=crop&w=750&h=&q=80&cs=tinysrgb&crop=);
+  background-size:cover;
+  height:1200px;
+  padding-top:5%;
+
+}
+.small-photo{
+  position: relative;
+  margin:30px 0 10px;
+      max-width:50%;
+      height:250px;
+    width:auto;
+
+}
